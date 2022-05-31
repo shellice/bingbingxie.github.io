@@ -1,3 +1,3 @@
 # 我的学术主页
 
-**My howepage:** https://shellice.github.io/bingbingxie.github.io/
+**My howepage:** https://shellice.github.io/
